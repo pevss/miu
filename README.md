@@ -17,3 +17,10 @@ Value Proposition
 ---
 
 A highly interactive delivery service app that allows users to meal prep their entire week, selecting every component of their desired meals from a weekly menu and customizing each portion.
+
+Group
+---
+
+Pedro Victor Gonçalves
+Luis Felipe Rodrigues
+Pedro Henrique Sardá
