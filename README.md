@@ -21,6 +21,6 @@ A highly interactive delivery service app that allows users to meal prep their e
 Group
 ---
 
-Pedro Victor Gonçalves
-Luis Felipe Rodrigues
-Pedro Henrique Sardá
+-   Pedro Victor Gonçalves
+-   Luis Felipe Rodrigues
+-   Pedro Henrique Sardá
