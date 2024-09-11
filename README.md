@@ -18,6 +18,11 @@ Value Proposition
 
 A highly interactive delivery service app that allows users to meal prep their entire week, selecting every component of their desired meals from a weekly menu and customizing each portion.
 
+Software Architecture
+---
+
+**[Click here to visit our Miro Board!](https://miro.com/app/board/uXjVKTk2aF0=/?share_link_id=943395582634)**
+
 Group
 ---
 
