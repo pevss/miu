@@ -1,6 +1,6 @@
 ![logo](main-logo.png)
 
-# **Português (Brasil)**
+# **🇧🇷 Português (Brasil)**
 
 ## O problema
 
@@ -24,7 +24,7 @@ Um aplicativo de delivery altamente interativo, que permite aos usuários prepar
 -   Luis Felipe Rodrigues
 -   Pedro Henrique Sardá
 
-# **English**
+# **🇺🇸 English**
 
 ## The problem
 
