@@ -18,7 +18,7 @@ Um aplicativo de delivery altamente interativo, que permite aos usuários prepar
 
 **[Clique aqui para visitar o nosso Miro!](https://miro.com/app/board/uXjVKTk2aF0=/?share_link_id=943395582634)**
 
-## Group
+## Grupo
 
 -   Pedro Victor Gonçalves
 -   Luis Felipe Rodrigues
